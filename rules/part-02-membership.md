@@ -60,9 +60,10 @@ as defined by rule 4.10) and shall not be subject to a member's
 subscription charge. The status of Honorary member will be as
 that of Flying Member.
 
-&nbsp;&nbsp;&nbsp;&nbsp;(4). **Flying Instructors** - flying instructors being employed by the
-Fenland Flying School and Resident Engineers on a full or part-time
-basis may be considered as Honorary Members.
+&nbsp;&nbsp;&nbsp;&nbsp;(4). **Flying Instructors** - flying instructors listed on the Fenland
+Flying School DTO, and Resident Engineers on a full or part-time basis,
+may be considered as Honorary Members by the Committee, subject to
+annual review.
 
 (f). **Life Membership** - Life membership may be at the discretion of the
 Committee or proposed and carried at the AGM.
