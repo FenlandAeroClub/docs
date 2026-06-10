@@ -1,8 +1,13 @@
 # Expenditure and Payment Card Policy
 
 > **Document status:** DRAFT
-> **Document version:** 0.1 — 17/04/2026 — Jeff Helm
-> **Next review date:**
+> **Document version:** 0.2 — 10/06/2026
+> **Supersedes:** 0.1 — 17/04/2026 — Jeff Helm
+> **Next review date:** (to be set by the Committee)
+
+> **Relationship to the Club Rules:** This policy operates under Part 6
+> (§6.1–§6.3) and §5.18 of the Club Rules and does not override the
+> Committee's expenditure authority.
 
 ## 1. Purpose
 
@@ -36,13 +41,13 @@ Cardholders are responsible for ensuring all spend complies with this policy.
 
 All expenditure requires prior Committee approval.
 
-The Committee may pre‑approve budgets e.g. annual events budget or IER budget up to an agreed limit (£X).
+The Committee may pre‑approve budgets e.g. annual events budget or IER budget up to an agreed limit (£X). No pre‑approved budget may exceed the Committee's expenditure authority under §5.18 of the Club Rules.
 
 Individual purchases within an approved budget do not require separate approval.
 
 Any spend outside or exceeding an approved budget must be re‑approved by the Committee.
 
-The Equals Money cards are prepaid so the approval process will include transferring the relevant balance to the individual cards.
+The Equals Money cards are prepaid so the approval process will include transferring the relevant balance to the individual cards. Funding the Equals Money account and loading balances onto cards requires authorisation by two officers, one of whom is not the cardholder being funded.
 
 ## 5. Method of Payment
 
@@ -88,10 +93,26 @@ All Club roles are voluntary. The Club does not normally reimburse:
 - Meals
 - Refreshments
 
-## 10. Review and Compliance
+## 10. Reconciliation
+
+Card and account transactions shall be reconciled against Xero each month. So that no one signs off their own spend, each cardholder's transactions shall be reviewed by another officer; officers (for example the Chairman, Secretary and Treasurer) may peer‑review one another's spend, and a reviewer may themselves hold a card. The review shall confirm that each transaction was approved, falls within an approved budget and is supported by a valid receipt or invoice, and shall flag anything that is not to the Committee.
+
+## 11. Review and Compliance
 
 Misuse of Club funds or payment cards may result in withdrawal of card access.
 
 Exceptions to this policy require explicit Committee approval.
 
 This policy will be reviewed periodically by the Committee.
+
+---
+
+## Changes in this revision (v0.2)
+
+This revision keeps Jeff Helm's v0.1 draft and its wording, and adds only:
+
+- **§4** — pre‑approved budgets may not exceed the §5.18 Committee ceiling, and funding the Equals Money account / loading cards needs two officers (one not the cardholder being funded).
+- **§10** (new) — monthly reconciliation against Xero with peer review, so no one signs off their own spend; the reviewer may hold a card.
+- **Header** — version bump and a note that the policy sits under Part 6 / §5.18 of the Club Rules.
+
+The Xero bills inbox address from the v0.1 draft has been redacted and is held separately rather than stored in the repository.
