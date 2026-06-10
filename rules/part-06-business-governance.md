@@ -14,7 +14,11 @@ enable account details to be available immediately and that emergency
 or large payments may be made electronically or authorised to ensure
 good business continuity. The Treasurer shall not have sole access to the
 internet bank account and shall require Committee authority to make any
-payments or transfer monies.
+payments or transfer monies. The same principle of no sole control shall
+apply to any prepaid card or electronic‑money account operated by the Club:
+the funding of such an account and the loading of balances onto individual
+cards shall require authorisation by two officers, as set out in the Club's
+Expenditure and Payment Card Policy.
 
 ## Bank Account Signatories
 
@@ -38,13 +42,25 @@ as required, to have access to view all account transactions
 from the Club's bank accounts;
 
 (d). All banking transactions will require a full audit trail including delivery
-note, invoice and BACS payment record. All transactions with be
-produced and kept in PDF format, and kept in the Dropbox treasurers
-account for viewing by committee members, as necessary.
+note, invoice and BACS payment record. The supporting documents shall be
+attached to the corresponding transaction in the Club's accounting system
+(Xero), which is the Club's system of record, for viewing by committee
+members as necessary.
 
-**6.3.** **Treasurer** - the Treasurer shall not sign cheques or make payments, but will
-present invoices for payment through the authorised Committee Member
-signatories.
+(e). routine Club expenditure may be made using prepaid payment cards
+issued to Committee officers and governed by the Club's Expenditure and
+Payment Card Policy, subject to limits set by the committee;
+
+(f). card and account transactions shall be reconciled against Xero monthly.
+So that no officer signs off their own spend, each cardholder's transactions
+shall be reviewed by another officer; officers may peer‑review one another's
+spend and a reviewer may themselves hold a card.
+
+**6.3.** **Treasurer** - the Treasurer may hold a prepaid payment card and make
+payments within Committee‑approved budgets and limits, but shall not have
+sole control of the Club's funds, shall not be a cheque signatory, and shall
+not sign off their own card spend; such reconciliation shall be performed by
+another officer as set out in §6.2(f).
 
 ## Club Correspondence and Communications
 
